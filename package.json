@@ -1,0 +1,27 @@
+{
+  "name": "-goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start",
+    "start:dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrycja1994/-goit-node-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrycja1994/-goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Patrycja1994/-goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
